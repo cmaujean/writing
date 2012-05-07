@@ -1,0 +1,12 @@
+# Nick requested a Christmas testing song, so here it is:
+#
+# Please Test you merry, Gentlemen,
+# Let nothing you dismay,
+# For RSpec, yes, and Cucumber
+# will save us on this Day.
+# To Keep the bugs from coming in
+# And be sure we get to play.
+# O' tidings of comfort and joy. Comfort and joy.
+#
+# --Christopher  | December 2011
+
