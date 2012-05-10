@@ -1,7 +1,7 @@
-distributed teams
+distributed team
 -----------------------
 
-deep sadness I mourn 
+distributed team
 
 evening specs like green leaf
 
